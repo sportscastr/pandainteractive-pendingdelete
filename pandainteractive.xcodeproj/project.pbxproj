@@ -94,6 +94,7 @@
 		3A56F80325D449990010DDAE /* pandainteractive */ = {
 			isa = PBXGroup;
 			children = (
+				3A82A0DE25E40D0700E0B04F /* Classes */,
 				3A56F80425D449990010DDAE /* pandainteractive.h */,
 				3A56F80525D449990010DDAE /* Info.plist */,
 			);
@@ -121,6 +122,13 @@
 				3A56F83125D44AB50010DDAE /* Info.plist */,
 			);
 			path = "pandainteractive-examples";
+			sourceTree = "<group>";
+		};
+		3A82A0DE25E40D0700E0B04F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
